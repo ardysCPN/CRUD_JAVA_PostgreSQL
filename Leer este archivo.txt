@@ -1,0 +1,8 @@
+1* se necesita postgreSQL para restaurar la base de datos
+2* dentro de la carpeta dist esta la libreria de postgreSQL
+3* pueden importar el proyecto a netBeans y añadir la libreria
+
+los metodos realizados se tratan de hacer de una forma limpia y clara.
+
+si te gusto este contenido por favor comparte, para ayudar a los demas que estan aprendiendo.
+El mundo es todavía hermoso; se cauto y esfuérzate por ser feliz.
